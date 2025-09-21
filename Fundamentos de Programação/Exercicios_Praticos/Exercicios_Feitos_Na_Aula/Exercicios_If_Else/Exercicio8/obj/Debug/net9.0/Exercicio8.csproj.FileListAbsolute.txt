@@ -1,0 +1,14 @@
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\obj\Debug\net9.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\obj\Debug\net9.0\Exercicio8.AssemblyInfoInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\obj\Debug\net9.0\Exercicio8.AssemblyInfo.cs
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\obj\Debug\net9.0\Exercicio8.csproj.CoreCompileInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\bin\Debug\net9.0\Exercicio8.exe
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\bin\Debug\net9.0\Exercicio8.deps.json
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\bin\Debug\net9.0\Exercicio8.runtimeconfig.json
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\bin\Debug\net9.0\Exercicio8.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\bin\Debug\net9.0\Exercicio8.pdb
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\obj\Debug\net9.0\Exercicio8.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\obj\Debug\net9.0\refint\Exercicio8.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\obj\Debug\net9.0\Exercicio8.pdb
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\obj\Debug\net9.0\Exercicio8.genruntimeconfig.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\Exercicio8\obj\Debug\net9.0\ref\Exercicio8.dll

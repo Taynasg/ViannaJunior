@@ -1,0 +1,11 @@
+1) Faça uma função que receba um inteiro N por parâmetro e leia N 
+números reais informados pelo usuário.
+A função deve retornar a quantidade de números positivos lidos.
+
+2) Faça uma função que receba um inteiro N por parâmetro e leia N 
+números reais informados pelo usuário.
+A função deve retornar a soma dos números positivos lidos.
+
+3) Faça uma função que receba um inteiro N por parâmetro e leia N 
+números reais informados pelo usuário.
+A função deve retornar o maior número lido.

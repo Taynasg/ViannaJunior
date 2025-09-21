@@ -1,0 +1,28 @@
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\bin\Debug\net9.0\Salario.exe
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\bin\Debug\net9.0\Salario.deps.json
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\bin\Debug\net9.0\Salario.runtimeconfig.json
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\bin\Debug\net9.0\Salario.dll
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\bin\Debug\net9.0\Salario.pdb
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\obj\Debug\net9.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\obj\Debug\net9.0\Salario.AssemblyInfoInputs.cache
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\obj\Debug\net9.0\Salario.AssemblyInfo.cs
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\obj\Debug\net9.0\Salario.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\obj\Debug\net9.0\Salario.dll
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\obj\Debug\net9.0\refint\Salario.dll
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\obj\Debug\net9.0\Salario.pdb
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\obj\Debug\net9.0\Salario.genruntimeconfig.cache
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Salario\obj\Debug\net9.0\ref\Salario.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\bin\Debug\net9.0\Salario.exe
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\bin\Debug\net9.0\Salario.deps.json
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\bin\Debug\net9.0\Salario.runtimeconfig.json
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\bin\Debug\net9.0\Salario.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\bin\Debug\net9.0\Salario.pdb
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\obj\Debug\net9.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\obj\Debug\net9.0\Salario.AssemblyInfoInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\obj\Debug\net9.0\Salario.AssemblyInfo.cs
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\obj\Debug\net9.0\Salario.csproj.CoreCompileInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\obj\Debug\net9.0\Salario.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\obj\Debug\net9.0\refint\Salario.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\obj\Debug\net9.0\Salario.pdb
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\obj\Debug\net9.0\Salario.genruntimeconfig.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercícios_FP2\2-Salario\obj\Debug\net9.0\ref\Salario.dll

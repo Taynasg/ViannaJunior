@@ -1,0 +1,4 @@
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\OutrosExercicios\Exercicio1\obj\Debug\net9.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\OutrosExercicios\Exercicio1\obj\Debug\net9.0\Exercicio1.AssemblyInfoInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\OutrosExercicios\Exercicio1\obj\Debug\net9.0\Exercicio1.AssemblyInfo.cs
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\OutrosExercicios\Exercicio1\obj\Debug\net9.0\Exercicio1.csproj.CoreCompileInputs.cache
