@@ -1,0 +1,14 @@
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\bin\Debug\net9.0\Triângulo.exe
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\bin\Debug\net9.0\Triângulo.deps.json
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\bin\Debug\net9.0\Triângulo.runtimeconfig.json
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\bin\Debug\net9.0\Triângulo.dll
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\bin\Debug\net9.0\Triângulo.pdb
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\obj\Debug\net9.0\Triângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\obj\Debug\net9.0\Triângulo.AssemblyInfoInputs.cache
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\obj\Debug\net9.0\Triângulo.AssemblyInfo.cs
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\obj\Debug\net9.0\Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\obj\Debug\net9.0\Triângulo.dll
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\obj\Debug\net9.0\refint\Triângulo.dll
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\obj\Debug\net9.0\Triângulo.pdb
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\obj\Debug\net9.0\Triângulo.genruntimeconfig.cache
+C:\Users\Claudia\Desktop\Vianna Junior\ExerciciosDeLogicaDeProgramacao\Fp_TiposDeDados\Slide 2\Triângulo\obj\Debug\net9.0\ref\Triângulo.dll
