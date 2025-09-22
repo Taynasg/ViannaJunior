@@ -1,0 +1,85 @@
+string nome, sobrenome;
+
+LeNomeESobrenome(out nome, out sobrenome);
+
+Console.WriteLine($"Olá {nome} {sobrenome}!");
+
+void LeNomeESobrenome(out string nome, out string sobrenome)
+{
+    Console.Write("Nome: ");
+    nome = Console.ReadLine() ?? "";
+
+    Console.Write("Sobrenome: ");
+    sobrenome = Console.ReadLine() ?? "";
+}
+
+// string[] nomes = ["Ana", "Bruno", "Carlos"];
+
+// foreach (string nome in nomes)
+//     Console.WriteLine(nome);
+
+// namespace Aula01;
+
+// class Program
+// {
+//     static void Main(string[] args)
+//     {
+//         int idade = 20;
+//         var idades = new int[] { 20, 30 };
+
+//         FazerAniversario(ref idade);
+
+//         FazerAniversario(ref idades, 0);
+
+//         Console.WriteLine("Idades:");
+
+//         foreach (int i in idades)
+//             Console.WriteLine(i);
+
+//         //Console.WriteLine(idade);
+//     }
+
+//     static void FazerAniversario(ref int idade)
+//     {
+//         idade++;
+//         //idade = idade + 1;
+//         //Console.WriteLine(idade);
+//     }
+
+//     static void FazerAniversario(ref int[] idades, int indice)
+//     {
+//         //idades[indice]++;
+//         idades = new int[] { 21, 30 };
+//     }
+// }
+
+
+// // namespace Aula01;
+
+// // class Program
+// // {
+// //     static void Main(string[] args)
+// //     {
+// //         int a, b;
+
+// //         (a, b) = (1, 2);
+
+// //         Console.WriteLine($"a: {a}, b: {b}");
+
+// //         (a, b) = (b, a);
+
+// //         Console.WriteLine($"a: {a}, b: {b}");
+
+// //         string s1;
+// //         int i1;
+
+// //         (s1, i1) = RetornaStringEInt(20);
+// //         Console.WriteLine($"{s1} {i1}");
+// //     }
+
+// //     static (string, int) RetornaStringEInt(int num)
+// //     {
+// //         return (num.ToString(), num);
+// //     }
+// // }
+

@@ -1,0 +1,36 @@
+class Program
+{
+    static void Main(string[] args)
+    {
+        var nome = "Ana";
+        var idade = 20;
+
+        //Console.WriteLine("Nome: {0}, idade: {1}", nome, idade);
+        //EscrevaLinha("Nome: {0}, idade: {1}", nome, idade);
+        Console.WriteLine($"Nome: {nome.ToUpper()}, idade: {idade + 0}.");
+
+        int resultado = Somar(1, 2, 3);
+        //int resultado = Somar([1, 2, 3]);
+
+        //EscrevaLinha("Soma dos números entre 1 e 3: {0}", resultado);
+        Console.WriteLine($"Soma dos números entre 1 e 3: {resultado}.");
+    }
+
+    static void EscrevaLinha(string texto, params object[] valores)
+    {
+        for (int i = 0; i < valores.Length; i++)
+            texto = texto.Replace("{" + i.ToString() + "}", valores[i].ToString());
+        
+        Console.WriteLine(texto);
+    }
+
+    static int Somar(params int[] numeros)
+    {
+        int soma = 0;
+
+        for (int i = 0; i < numeros.Length; i++)
+            soma += numeros[i];
+
+        return soma;
+    }
+}

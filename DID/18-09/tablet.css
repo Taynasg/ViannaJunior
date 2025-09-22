@@ -1,0 +1,49 @@
+#conteiner {
+    height: 100vh;
+    display: grid;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.text-white {
+    color: white;
+}
+
+.header {
+    grid-area: header;
+    background-color: #0f1629;
+}
+
+.menu {
+    grid-area: menu;
+    background-color: #ef3b4e;
+}
+
+.hero {
+    grid-area: hero;
+    background-color: #4c86c6;
+}
+
+.main {
+    grid-area: main;
+    background-color: #a3444b;
+}
+
+.banner {
+    grid-area: banner;
+    background-color: #fdd168;
+}
+
+.extra {
+    grid-area: extra;
+    background-color: #4dbd97;
+}
+
+.image {
+    grid-area: image;
+    background-color: #c1e4e6;
+}

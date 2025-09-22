@@ -1,0 +1,7 @@
+Objeto: Um dado
+
+Forma original de interagir: Jogar o dado e ver qual foi o número que foi sorteado ao ficar com uma das faces para cima
+
+Novo forma de interagir: Esse dado terá todas as faces brancas e touch, em cada uma haverá um circulo preto piscando e indicando 
+que o usuário deve tocar em uma delas. Ao ser tocada o número irá se revelar. Assim o jogador poderá tentar adivinhar o número 
+sorteado e após um tempo, esse número irá desaparecer para uma nova interação.
