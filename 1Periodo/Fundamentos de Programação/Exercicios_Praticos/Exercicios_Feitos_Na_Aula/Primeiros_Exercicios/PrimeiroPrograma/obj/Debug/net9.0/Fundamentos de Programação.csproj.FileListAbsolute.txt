@@ -1,0 +1,14 @@
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\bin\Debug\net9.0\Fundamentos de Programação.exe
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\bin\Debug\net9.0\Fundamentos de Programação.deps.json
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\bin\Debug\net9.0\Fundamentos de Programação.runtimeconfig.json
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\bin\Debug\net9.0\Fundamentos de Programação.dll
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\bin\Debug\net9.0\Fundamentos de Programação.pdb
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\obj\Debug\net9.0\Fundamentos de Programação.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\obj\Debug\net9.0\Fundamentos de Programação.AssemblyInfoInputs.cache
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\obj\Debug\net9.0\Fundamentos de Programação.AssemblyInfo.cs
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\obj\Debug\net9.0\Fundamentos de Programação.csproj.CoreCompileInputs.cache
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\obj\Debug\net9.0\Fundamentos de Programação.dll
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\obj\Debug\net9.0\refint\Fundamentos de Programação.dll
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\obj\Debug\net9.0\Fundamentos de Programação.pdb
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\obj\Debug\net9.0\Fundamentos de Programação.genruntimeconfig.cache
+D:\Tayná Soares Guimarães\Fundamentos de Programação\PrimeiroPrograma\obj\Debug\net9.0\ref\Fundamentos de Programação.dll
