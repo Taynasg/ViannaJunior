@@ -1,0 +1,14 @@
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\bin\Debug\net9.0\Exercicio3.exe
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\bin\Debug\net9.0\Exercicio3.deps.json
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\bin\Debug\net9.0\Exercicio3.runtimeconfig.json
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\bin\Debug\net9.0\Exercicio3.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\bin\Debug\net9.0\Exercicio3.pdb
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\obj\Debug\net9.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\obj\Debug\net9.0\Exercicio3.AssemblyInfoInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\obj\Debug\net9.0\Exercicio3.AssemblyInfo.cs
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\obj\Debug\net9.0\Exercicio3.csproj.CoreCompileInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\obj\Debug\net9.0\Exercicio3.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\obj\Debug\net9.0\refint\Exercicio3.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\obj\Debug\net9.0\Exercicio3.pdb
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\obj\Debug\net9.0\Exercicio3.genruntimeconfig.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_Vetores\exercicio3\obj\Debug\net9.0\ref\Exercicio3.dll
