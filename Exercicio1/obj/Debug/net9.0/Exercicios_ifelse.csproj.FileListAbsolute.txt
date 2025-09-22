@@ -1,0 +1,14 @@
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\obj\Debug\net9.0\Exercicios_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\obj\Debug\net9.0\Exercicios_ifelse.AssemblyInfoInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\obj\Debug\net9.0\Exercicios_ifelse.AssemblyInfo.cs
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\obj\Debug\net9.0\Exercicios_ifelse.csproj.CoreCompileInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\bin\Debug\net9.0\Exercicios_ifelse.exe
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\bin\Debug\net9.0\Exercicios_ifelse.deps.json
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\bin\Debug\net9.0\Exercicios_ifelse.runtimeconfig.json
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\bin\Debug\net9.0\Exercicios_ifelse.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\bin\Debug\net9.0\Exercicios_ifelse.pdb
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\obj\Debug\net9.0\Exercicios_ifelse.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\obj\Debug\net9.0\refint\Exercicios_ifelse.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\obj\Debug\net9.0\Exercicios_ifelse.pdb
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\obj\Debug\net9.0\Exercicios_ifelse.genruntimeconfig.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_Feitos_Na_Aula\Exercicios_ifelse\obj\Debug\net9.0\ref\Exercicios_ifelse.dll
