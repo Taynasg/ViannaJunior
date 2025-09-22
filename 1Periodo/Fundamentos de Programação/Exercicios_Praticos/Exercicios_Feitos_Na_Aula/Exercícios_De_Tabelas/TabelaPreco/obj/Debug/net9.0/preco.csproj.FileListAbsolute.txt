@@ -1,0 +1,14 @@
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\bin\Debug\net9.0\preco.exe
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\bin\Debug\net9.0\preco.deps.json
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\bin\Debug\net9.0\preco.runtimeconfig.json
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\bin\Debug\net9.0\preco.dll
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\bin\Debug\net9.0\preco.pdb
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\obj\Debug\net9.0\preco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\obj\Debug\net9.0\preco.AssemblyInfoInputs.cache
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\obj\Debug\net9.0\preco.AssemblyInfo.cs
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\obj\Debug\net9.0\preco.csproj.CoreCompileInputs.cache
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\obj\Debug\net9.0\preco.dll
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\obj\Debug\net9.0\refint\preco.dll
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\obj\Debug\net9.0\preco.pdb
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\obj\Debug\net9.0\preco.genruntimeconfig.cache
+D:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\preco\obj\Debug\net9.0\ref\preco.dll
