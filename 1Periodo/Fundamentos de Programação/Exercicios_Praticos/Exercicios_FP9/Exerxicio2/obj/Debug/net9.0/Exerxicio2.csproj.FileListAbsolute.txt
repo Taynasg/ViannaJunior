@@ -1,0 +1,14 @@
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\bin\Debug\net9.0\Exerxicio2.exe
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\bin\Debug\net9.0\Exerxicio2.deps.json
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\bin\Debug\net9.0\Exerxicio2.runtimeconfig.json
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\bin\Debug\net9.0\Exerxicio2.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\bin\Debug\net9.0\Exerxicio2.pdb
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\obj\Debug\net9.0\Exerxicio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\obj\Debug\net9.0\Exerxicio2.AssemblyInfoInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\obj\Debug\net9.0\Exerxicio2.AssemblyInfo.cs
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\obj\Debug\net9.0\Exerxicio2.csproj.CoreCompileInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\obj\Debug\net9.0\Exerxicio2.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\obj\Debug\net9.0\refint\Exerxicio2.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\obj\Debug\net9.0\Exerxicio2.pdb
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\obj\Debug\net9.0\Exerxicio2.genruntimeconfig.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP9\Exerxicio2\obj\Debug\net9.0\ref\Exerxicio2.dll
