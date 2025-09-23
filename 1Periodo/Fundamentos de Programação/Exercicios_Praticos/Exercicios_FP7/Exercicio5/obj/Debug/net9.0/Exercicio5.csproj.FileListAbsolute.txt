@@ -1,0 +1,14 @@
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\bin\Debug\net9.0\Exercicio5.exe
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\bin\Debug\net9.0\Exercicio5.deps.json
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\bin\Debug\net9.0\Exercicio5.runtimeconfig.json
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\bin\Debug\net9.0\Exercicio5.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\bin\Debug\net9.0\Exercicio5.pdb
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\obj\Debug\net9.0\Exercicio5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\obj\Debug\net9.0\Exercicio5.AssemblyInfoInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\obj\Debug\net9.0\Exercicio5.AssemblyInfo.cs
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\obj\Debug\net9.0\Exercicio5.csproj.CoreCompileInputs.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\obj\Debug\net9.0\Exercicio5.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\obj\Debug\net9.0\refint\Exercicio5.dll
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\obj\Debug\net9.0\Exercicio5.pdb
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\obj\Debug\net9.0\Exercicio5.genruntimeconfig.cache
+E:\Tayná Soares Guimarães\Fundamentos de Programação\Exercicios_Praticos\Exercicios_FP7\Exercicio5\obj\Debug\net9.0\ref\Exercicio5.dll
