@@ -1,0 +1,15 @@
+#container > h1{
+    font-size: 74px;
+}
+
+.item{
+    color: green;
+}
+
+ul > li:first-child{
+font-weight: bold;
+}
+
+#container p:first-of-type{
+    background-color: red;
+}
