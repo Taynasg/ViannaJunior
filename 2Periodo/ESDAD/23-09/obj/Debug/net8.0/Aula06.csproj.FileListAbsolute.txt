@@ -1,0 +1,14 @@
+/home/professor/Documentos/Camillo/ED/Aula06/bin/Debug/net8.0/Aula06
+/home/professor/Documentos/Camillo/ED/Aula06/bin/Debug/net8.0/Aula06.deps.json
+/home/professor/Documentos/Camillo/ED/Aula06/bin/Debug/net8.0/Aula06.runtimeconfig.json
+/home/professor/Documentos/Camillo/ED/Aula06/bin/Debug/net8.0/Aula06.dll
+/home/professor/Documentos/Camillo/ED/Aula06/bin/Debug/net8.0/Aula06.pdb
+/home/professor/Documentos/Camillo/ED/Aula06/obj/Debug/net8.0/Aula06.GeneratedMSBuildEditorConfig.editorconfig
+/home/professor/Documentos/Camillo/ED/Aula06/obj/Debug/net8.0/Aula06.AssemblyInfoInputs.cache
+/home/professor/Documentos/Camillo/ED/Aula06/obj/Debug/net8.0/Aula06.AssemblyInfo.cs
+/home/professor/Documentos/Camillo/ED/Aula06/obj/Debug/net8.0/Aula06.csproj.CoreCompileInputs.cache
+/home/professor/Documentos/Camillo/ED/Aula06/obj/Debug/net8.0/Aula06.dll
+/home/professor/Documentos/Camillo/ED/Aula06/obj/Debug/net8.0/refint/Aula06.dll
+/home/professor/Documentos/Camillo/ED/Aula06/obj/Debug/net8.0/Aula06.pdb
+/home/professor/Documentos/Camillo/ED/Aula06/obj/Debug/net8.0/Aula06.genruntimeconfig.cache
+/home/professor/Documentos/Camillo/ED/Aula06/obj/Debug/net8.0/ref/Aula06.dll
