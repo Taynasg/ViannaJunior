@@ -1,0 +1,62 @@
+body{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family: Comic 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-black {
+  color: black;
+}
+
+#container{
+  display: grid;
+  height: 100vh;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows:1fr 4fr 3fr 2fr 2fr;
+  grid-template-areas: 
+  "header header header"
+  "hero hero hero"
+  "menu main main"
+  "main banner banner"
+  "menu extra image";
+}
+
+.header{
+  grid-area:header;
+  background-color:  hsl(223.85deg 46.43% 10.98%);
+}
+
+.hero{
+  grid-area:hero;
+  background-color: rgba(17, 147, 253, 0.637);
+}
+
+.menu{
+  grid-area:menu;
+  background-color:  hsl(354.61deg 84.76% 58.82%);
+}
+
+.main{
+  grid-area:main;
+  background-color:  hsl(215.38deg 35.14% 21.76%);
+}
+
+.banner {
+  grid-area: banner;
+  background-color: hsl(42deg 98.68% 70.2%);
+}
+
+.extra{
+  grid-area:extra;
+  background-color:  hsl(159.64deg 45.9% 52.16%);
+}
+
+.image{
+  grid-area:image;
+  background-color:  hsl(183.24deg 42.53% 82.94%);
+}

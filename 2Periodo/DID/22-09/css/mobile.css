@@ -1,0 +1,64 @@
+body {
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  min-height: 0;
+  font-family: sans-serif;
+  font-size: 40px;
+}
+
+.text-white {
+  color: white;
+}
+
+@media screen and (min-width: 154px) and (max-width: 511px) {
+  #container {
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 4fr 4fr 2fr 2fr 2fr;
+    grid-template-areas:
+      "header"
+      "menu"
+      "hero"
+      "main"
+      "banner"
+      "extra"
+      "image";
+  }
+}
+
+.header {
+  grid-area: header;
+  background-color: hsl(223.85deg 46.43% 10.98%)
+}
+
+.menu {
+  grid-area: menu;
+  background-color: hsl(354.61deg 84.76% 58.82%);
+}
+
+.hero {
+  grid-area: hero;
+  background-color: rgba(17, 147, 253, 0.637);
+}
+
+.banner {
+  grid-area: banner;
+  background-color: hsl(42deg 98.68% 70.2%);
+}
+.main {
+  grid-area: main;
+  background-color: hsl(215.38deg 35.14% 21.76%);
+}
+
+.extra {
+  grid-area: extra;
+  background-color: hsl(159.64deg 45.9% 52.16%);
+}
+
+.image {
+  grid-area: image;
+  background-color: hsl(183.24deg 42.53% 82.94%);
+}
