@@ -1,0 +1,15 @@
+# 1. Criar a solution principal
+dotnet new sln -n Exercicios
+
+# 2. Criar os projetos que você quiser
+dotnet new console -n Exercicio1
+dotnet new console -n Exercicio2
+dotnet new console -n Exercicio3   # aqui cria o Exercicio7
+
+# 3. Adicionar os projetos criados à solution
+dotnet sln Exercicios.sln add Exercicio1/Exercicio1.csproj
+dotnet sln Exercicios.sln add Exercicio2/Exercicio2.csproj
+dotnet sln Exercicios.sln add Exercicio7/Exercicio3.csproj
+
+# 4. Rodar um projeto específico (exemplo: Exercicio7)
+dotnet run --project Exercicio7/Exercicio3.csproj
