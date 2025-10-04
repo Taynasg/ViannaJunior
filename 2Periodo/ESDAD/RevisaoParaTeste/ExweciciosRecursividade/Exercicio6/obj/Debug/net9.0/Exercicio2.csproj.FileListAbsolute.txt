@@ -1,0 +1,14 @@
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\bin\Debug\net9.0\Exercicio2.exe
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\bin\Debug\net9.0\Exercicio2.deps.json
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\bin\Debug\net9.0\Exercicio2.runtimeconfig.json
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\bin\Debug\net9.0\Exercicio2.dll
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\bin\Debug\net9.0\Exercicio2.pdb
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\obj\Debug\net9.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\obj\Debug\net9.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\obj\Debug\net9.0\Exercicio2.AssemblyInfo.cs
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\obj\Debug\net9.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\obj\Debug\net9.0\Exercicio2.dll
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\obj\Debug\net9.0\refint\Exercicio2.dll
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\obj\Debug\net9.0\Exercicio2.pdb
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\obj\Debug\net9.0\Exercicio2.genruntimeconfig.cache
+C:\Users\Claudia\Desktop\ExweciciosRecursividade\Exercicio2\obj\Debug\net9.0\ref\Exercicio2.dll
