@@ -1,5 +1,3 @@
-/*
-
 01: Primeiro, selecione todos os elementos do formulário (inputs, selects) e os elementos do cartão de preview (div do cartão, h3 do nome, p da bio, div do avatar).
 
 02: Atualização em Tempo Real (Texto):
@@ -17,4 +15,3 @@ Cor de Fundo: Na função do evento, altere a propriedade style.backgroundColor 
 04: Estilo da Borda: Remova as classes de borda existentes e adicione a nova classe correspondente ao value selecionado (ex: borda-solida).
 
 05: Avatar: Atualize o textContent do div do avatar com o emoji selecionado.
-*/
