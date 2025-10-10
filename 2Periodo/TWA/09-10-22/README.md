@@ -7,7 +7,6 @@ Adicione um event listener ao campo de nome e à bio para o evento input. Este e
 Na função do evento, atualize o textContent do <h3> e do <p> no cartão com o valor (.value) do campo correspondente.
 
 03: Atualização por Seleção (Estilos e Avatar):
-
 Adicione um event listener aos três <select> (cor, borda e avatar) para o evento change.
 
 Cor de Fundo: Na função do evento, altere a propriedade style.backgroundColor do cartão principal.
