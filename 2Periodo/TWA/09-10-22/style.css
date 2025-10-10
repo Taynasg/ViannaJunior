@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container {
+    background-color: white;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    width: 800px;
+}
+h1, h2 { text-align: center; color: #1c1e21; }
+.card-builder {
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+}
+.card-controller, .card-preview { flex: 1; }
+.card-controller {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+label { font-weight: bold; margin-top: 5px; }
+input, textarea, select {
+    width: 100%;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+/* Estilos do Cartão */
+.card-display {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 25px;
+    text-align: center;
+    transition: all 0.3s ease;
+    border-width: 3px;
+}
+.avatar { font-size: 4rem; margin-bottom: 10px; }
+#card-name { margin: 10px 0; font-size: 1.5rem; }
+#card-bio { font-size: 1rem; color: #606770; }
+
+/* Classes para as Bordas */
+.borda-solida { border-style: solid; border-color: #ddd; }
+.borda-tracejada { border-style: dashed; border-color: #bbb; }
+.borda-pontilhada { border-style: dotted; border-color: #999; }

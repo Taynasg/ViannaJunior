@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Construtor de Cartões de Perfil</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="container">
+        <h1>Crie seu Cartão de Perfil</h1>
+        <div class="card-builder">
+            <form class="card-controller">
+                <h2>Painel de Controle</h2>
+
+                <label for="name-input">Nome:</label>
+                <input type="text" id="name-input" placeholder="Digite seu nome...">
+
+                <label for="bio-input">Bio:</label>
+                <textarea id="bio-input" rows="3" placeholder="Fale um pouco sobre você..."></textarea>
+
+                <label for="color-select">Cor de Fundo:</label>
+                <select id="color-select">
+                    <option value="#f8f9fa">Branco</option>
+                    <option value="#d1e7dd">Verde Claro</option>
+                    <option value="#cff4fc">Azul Claro</option>
+                    <option value="#fff3cd">Amarelo Claro</option>
+                </select>
+
+                <label for="border-select">Estilo da Borda:</label>
+                <select id="border-select">
+                    <option value="borda-solida">Sólida</option>
+                    <option value="borda-tracejada">Tracejada</option>
+                    <option value="borda-pontilhada">Pontilhada</option>
+                </select>
+
+                 <label for="avatar-select">Avatar:</label>
+                <select id="avatar-select">
+                    <option>🧑‍💻</option>
+                    <option>🎨</option>
+                    <option>🚀</option>
+                    <option>💡</option>
+                </select>
+            </form>
+
+            <div class="card-preview">
+                <h2>Preview do Cartão</h2>
+                <div id="profile-card" class="card-display borda-solida">
+                    <div id="card-avatar" class="avatar">🧑‍💻</div>
+                    <h3 id="card-name">Seu Nome Aqui</h3>
+                    <p id="card-bio">Sua bio aparecerá aqui.</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
