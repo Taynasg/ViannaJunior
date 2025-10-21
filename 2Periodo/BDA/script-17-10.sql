@@ -10,13 +10,11 @@ from filme f right join locacao l on f.codigo_filme = l.codigo_filme
 right join cliente c on c.codigo_cliente = l.codigo_cliente;
 
 -- QUESTÃO 02: Traga o nome dos gêneros que não estão em nenhum filme(4 linhas retornadas).
-
 select nome_genero from genero  left join filme_genero on genero.codigo_genero = filme_genero.codigo_genero
 left join filme on filme_genero.codigo_filme = filme.codigo_filme where filme.codigo_filme is null;
 
 -- QUESTÃO 03: Traga o nome de todos os diretores. Caso ele tenha dirigido algum filme, 
 -- traga o nome do filme (23 linhas retornadas).
-
 	select nome_diretor, titulo from diretor d left join filme_diretor fd on 
     d.codigo_diretor = fd.codigo_diretor left join filme f on fd.codigo_filme = f.codigo_filme;
 
@@ -28,9 +26,11 @@ left join filme on filme_genero.codigo_filme = filme.codigo_filme where filme.co
 
 -- QUESTÃO 05: Traga o título dos filmes, juntamente com o nome dos atores que atuaram
 -- nele(88 linhas retornadas).
-	select titulo, nome_ator from filme f left join filme_ator fa on f.codigo_ator
+	select titulo, nome_ator from ator a  left join filme_ator fa on a.codigo_ator = fa.codigo_ator join filme f on f.codigo_filme = fa.codigo_filme;
 
 -- QUESTÃO 06: Traga o nome dos clientes que alugaram filmes do gênero comédia(13 linhas retornadas).
+select nome_cliente, genero.codigo_genero from cliente c left join locacao l on c.codigo_cliente = l.codigo_cliente left join filme f on f.codigo_filme = l.codigo_filme left join filme_genero fg 
+on f.codigo_filme = fg.codigo_filme  join genero g on f.codigo_genero = g.codigo_genero;
 
 -- QUESTÃO 07: Traga o nome dos filmes que não foram locados por ninguém(4 linhas retornadas).
-
+select titulo from filme f
