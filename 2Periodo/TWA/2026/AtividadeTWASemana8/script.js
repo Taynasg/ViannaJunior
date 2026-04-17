@@ -40,14 +40,40 @@ Botão de Reset:
 Crie um botão "Reiniciar Dia" que volta todas as variáveis para 0 (ou vazio) e limpa os textos da tela.
 */
 
-const botaoHumor = document.getElementsByClassName("botaoDeHumor")
-let quantidadeDeAgua = 0;
-let tempoDeExercício = 0;
+let tempoDeExercicio = 0;
+let quantidadeDeCopos = 0;
 
-function mudarHumor(){
-    addEventListener("click", function(){
-        console.log("Botao clicado");
-        
-    })
+const botaoHumor = document.querySelectorAll(".btnHumor");
+const textoHumor = document.getElementById("humor")
 
+botaoHumor.forEach(botao =>{
+    botao.addEventListener("click", mudarHumor)
+})
+
+
+
+function mudarHumor(e) {
+    
+    textoHumor.innerText = e.target.innerText;
 }
+
+
+
+
+const quantidadeDeAgua = document.getElementById("coposDeAgua");
+
+function adicionarAgua() {
+    quantidadeDeCopos++;
+    quantidadeDeAgua.innerText = quantidadeDeCopos;
+}
+
+
+const quantidadeDeMinutos = document.getElementById("minutosDeExercicio");
+
+function adicionarMinutos(){
+        tempoDeExercicio+=15;
+        quantidadeDeMinutos.innerText = tempoDeExercicio;
+}
+
+
+
