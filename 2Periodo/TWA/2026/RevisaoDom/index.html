@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Revisão DOM</title>
+    <style>
+        .destaque {
+            background-color: yellow;
+            font-weight: bold;
+        }
+        .item-lista {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 id="tituloPrincipal">Minha Página de Revisão</h1>
+
+    <div id="container-principal">
+        <p class="paragrafo">Este é o primeiro parágrafo.</p>
+        <p class="paragrafo">Este é o segundo parágrafo, com um <strong id="palavra-chave">termo importante</strong>.</p>
+    </div>
+
+    <ul id="minha-lista">
+        <li class="item-lista">Item 1</li>
+        <li class="item-lista">Item 2</li>
+        <li class="item-lista">Item 3</li>
+    </ul>
+
+    <button id="botao-adicionar">Adicionar Novo Item</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
