@@ -1,0 +1,141 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.container {
+    background: #ffffff;
+    padding: 50px 60px;
+    border-radius: 24px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+    text-align: center;
+    max-width: 480px;
+    width: 90%;
+}
+
+.container h2 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #3a3a5c;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
+
+.container p {
+    color: #888;
+    font-size: 0.95rem;
+    margin-bottom: 10px;
+}
+
+/* ── Escolhas ── */
+
+.pedra   { background-image: url('assets/pedra.png'); }
+.papel   { background-image: url('assets/papel.png'); }
+.tesoura { background-image: url('assets/tesoura.png'); }
+
+.choices {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    margin: 30px 0 10px;
+}
+
+.choice {
+    width: 90px;
+    height: 90px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    background-color: #f4f4fb;
+    transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    padding: 12px;
+}
+
+.choice:hover {
+    transform: translateY(-6px) scale(1.08);
+    border-color: #667eea;
+    box-shadow: 0 8px 24px rgba(102, 126, 234, 0.35);
+}
+
+.choice:active {
+    transform: scale(0.95);
+}
+
+/* ── Área de resultado ── */
+
+#result-area {
+    margin-top: 30px;
+    display: none;
+    border-top: 2px solid #f0f0f5;
+    padding-top: 28px;
+}
+
+.vs-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.player-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.player-label {
+    font-size: 0.7rem;
+    font-weight: 800;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    color: #fff;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    padding: 4px 14px;
+    border-radius: 50px;
+}
+
+.player-label.label-cpu {
+    background: linear-gradient(135deg, #f093fb, #f5576c);
+}
+
+.vs-label {
+    font-size: 1.3rem;
+    font-weight: 900;
+    color: #d0d0e0;
+    letter-spacing: 1px;
+}
+
+.display-img {
+    width: 80px;
+    height: 80px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px;
+}
+
+/* ── Status ── */
+
+#status {
+    font-size: 1.6rem;
+    font-weight: 800;
+    margin-top: 24px;
+    padding: 12px 28px;
+    display: inline-block;
+    letter-spacing: 0.5px;
+}

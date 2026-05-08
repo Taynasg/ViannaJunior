@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Avaliação: Tecnologia Web Aplicada</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>Jokenpô</h2>
+    <p>Selecione a sua jogada clicando numa das imagens abaixo:</p>
+    
+    <div class="choices">
+        <div class="choice pedra"></div>
+        <div class="choice papel"></div>
+        <div class="choice tesoura"></div>
+    </div>
+
+    <div id="result-area">
+        <div class="vs-container">
+            <div class="player-card">
+                <span class="player-label">Jogador</span>
+                <div id="player-img" class="display-img"></div>
+            </div>
+            <span class="vs-label">VS</span>
+            <div class="player-card">
+                <span class="player-label label-cpu">CPU</span>
+                <div id="cpu-img" class="display-img"></div>
+            </div>
+        </div>
+        <div id="status"></div>
+    </div>
+</div>
+
+<script src="resposta.js"></script>
+</body>
+</html>
