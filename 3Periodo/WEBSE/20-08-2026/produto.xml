@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<produto>
+    <fabricante>
+        <nome>NomeA</nome>
+        <endereco>EnderecoA</endereco>
+    </fabricante>
+    <nome-produto>ProdutoA</nome-produto>
+    <preco-unitario>PrecoA</preco-unitario>
+    <quantidade>1</quantidade>
+    <caategoria>CategoriaA</categoria>
+  
+</produto>
+
+<produto>
+    <fabricante>
+        <nome>NomeB</nome>
+        <endereco>EnderecoB</endereco>
+    </fabricante>
+    <nome-produto>ProdutoB</nome-produto>
+    <preco-unitario>PrecoB</preco-unitario>
+    <quantidade>2</quantidade>
+    <caategoria>CategoriaB</categoria>
+  
+</produto>

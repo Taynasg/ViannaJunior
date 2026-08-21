@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+    <caderneta>
+        <contato>
+            <nome>Nome1</nome>
+            <endereco>
+                <nomeDaRua>Rua1</nomeDaRua>
+                <numero>n1</numero>
+                <cep>11111111</cep>
+            </endereco>
+            <telefone>11111111111</telefone>
+        </contato>
+
+        <contato>
+            <nome>Nome2</nome>
+            <endereco>
+                <nomeDaRua>Rua2</nomeDaRua>
+                <numero>n2</numero>
+                <cep>222222222</cep>
+            </endereco>
+            <telefone>22222222222</telefone>
+        </contato>
+</caderneta>
+
+
+
+
+
