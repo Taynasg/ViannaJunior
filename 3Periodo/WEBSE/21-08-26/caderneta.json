@@ -1,0 +1,26 @@
+{
+    "caderneta": [
+        {
+            "contato": {
+                "nome": "Nome1",
+                "endereco": {
+                    "nomeDaRua": "Rua1",
+                    "numero": "n1",
+                    "cep": "11111111"
+                },
+                "telefone": "11111111111"
+            }
+        },
+        {
+            "contato": {
+                "nome": "Nome1",
+                "endereco": {
+                    "nomeDaRua": "Rua1",
+                    "numero": "n1",
+                    "cep": "11111111"
+                },
+                "telefone": "11111111111"
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "produtos": [
+        {
+            "nome": "NomeA",
+            "fabricante": {
+                "nome": "NomeA",
+                "endereco": "EnderecoA",
+                "nome-produto": "ProdutoA",
+                "preco-unitario": "PrecoA",
+                "quantidade": "1"
+            },
+            "nome": "NomeB",
+            "fabricante": {
+                "nome": "NomeB",
+                "endereco": "EnderecoB",
+                "nome-produto": "ProdutoB",
+                "preco-unitario": "PrecoB",
+                "quantidade": "1"
+            }
+        }
+    ]
+}
